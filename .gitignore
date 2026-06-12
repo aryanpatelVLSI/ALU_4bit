@@ -1,0 +1,23 @@
+# Vivado temporary files
+
+.Xil/
+
+*.jou
+*.log
+*.str
+
+*.cache/
+*.runs/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.sim/
+
+.cache/
+.runs/
+.gen/
+.hw/
+.ip_user_files/
+.sim/
+
+webtalk*
