@@ -20,6 +20,7 @@ This project implements a 4-bit Arithmetic Logic Unit (ALU) using Verilog HDL in
 - 4bitALU.v – ALU design module
 - 4bitALU_tb.v – Testbench
 - waveform.png – Simulation waveform
+  ![Waveform](waveform.png)
 
 ## Tools Used
 
